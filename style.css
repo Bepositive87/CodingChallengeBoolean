@@ -1,0 +1,80 @@
+body{
+ background-image: url("img/background.jpg");
+ background-size: cover;
+}
+
+.square {
+  margin-top: 20px;
+  margin-left: 280px;
+  height: 700px;
+  width: 1000px;
+  background-color:rgba(0, 0, 0, 0.5);
+}
+
+.logo {
+  width: 200px;
+  margin-top: 50px;
+  margin-left: 370px
+}
+
+.testo{
+    color: lime;
+    margin-left: 300px;
+}
+
+.prenotazione{
+  background-color: lime;
+  text-align: center;
+  padding: 10px;
+  margin-left: 80px;
+  margin-right: 80px;
+}
+
+.Monopattino-Gino22{
+  color:white;
+  margin-top: 20px;
+  margin-left: 80px;
+  font-size: 18px
+}
+
+.Monopattino-Mike24,.Monopattino-Fede154 {
+  font-size: 18px;
+  margin-top: 20px;
+}
+
+.via-guadalametri{
+  color: white;
+  margin-left: 80px;
+  font-style: normal;
+  font-size: 12px;
+}
+
+.barra-sendybrown{
+  background-color: sandybrown;
+  border-radius: 4px;
+  padding:12px;
+  margin-right:620px;
+}
+
+.via-Ricciardoni,.via-Mentarini
+{
+  color: white;
+  margin-left:auto;
+  font-style: normal;
+  font-size: 12px;
+}
+
+.barra-limegreen{
+  background-color: limegreen;
+  border-radius: 4px;
+  padding:12px;
+  margin-right:370px;
+}
+
+
+.barra-firebrick{
+  background-color: firebrick;
+  border-radius: 4px;
+  padding:12px;
+  margin-right:800px;
+}
